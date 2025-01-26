@@ -139,7 +139,7 @@ Besides setting the container as the default gateway for individual devices, you
       </details>
 ## License
 
-This project is licensed under the [MIT License](LICENSE). **(Remember to create a `LICENSE` file with the MIT license text in your repository.)**
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
