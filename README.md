@@ -11,6 +11,20 @@ The container uses the `linuxserver/wireguard` image and is configured to operat
 
 All traffic passing through the gateway is routed through the WireGuard VPN.
 
+<details>
+  <summary><b>Why Use This? (Benefits)</b></summary>
+
+  This project offers a powerful and flexible alternative to running VPN clients on individual devices or routers, providing:
+
+  *   **Faster Speeds:** Offloads VPN processing from your router to a more powerful machine, resulting in significantly faster VPN speeds. Ideal if your router struggles with WireGuard encryption.
+  *   **Unlimited Devices:** Connect all your devices through a single VPN connection, bypassing limitations imposed by some VPN providers on the number of simultaneous connections.
+  *   **Simplified Management:** No need to install VPN clients on each device. Manage your VPN connection and routing rules centrally from the Docker container.
+  *   **Increased Control:**  Choose which devices or even specific traffic goes through the VPN, giving you more control over your network.
+  *   **Potentially Avoid ISP Throttling:** Using WireGuard on a dedicated gateway might help mitigate the impact of ISP throttling on VPN traffic.
+
+  **In short, this solution is ideal if you want a faster, more flexible, and centrally managed VPN setup for your home network, especially if your router's VPN performance is lacking or your VPN provider limits device connections.**
+</details>
+
 ## Requirements
 
 *   Docker
