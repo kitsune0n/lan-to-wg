@@ -158,3 +158,14 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 [Stanislav Prokopenko](https://github.com/kitsune0n)
+
+---
+<div>
+<a href="https://www.buymeacoffee.com/KitsuneOnline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
+<small>USDT(TRC20):</small> `TB3WQiwmK8nRzTQN4NrqUoQbUtptBGbaMu`  
+<small>SOL(SOLANA):</small> `0xd14227c1129d5f403ab4e8645b9ebfdfa5cd32b3`  
+<small>BNB(BEP20):</small> `DGv49kioDhL9tgyd7JisquBtPNZkA1XPYpZzCL6SN69B`
+
+**Enjoy fast wireguard gateway in your local network!**
